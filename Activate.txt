@@ -1,0 +1,5 @@
+Нажмите Win+R.
+Напишите cmd.
+Напишите powershell.
+Напишите irm https://get.activated.win | iex.
+В откртом окне делаем необходимые вещи.
